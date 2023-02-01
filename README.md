@@ -21,7 +21,7 @@
 
 ### 🌻About Me :
 
-- 👨🏻‍💻 This is my [CV] (file:///C:/Users/Pablo%20Vasquez%20Garcia/Pictures/hoja%20de%20vida/Hoja%20de%20Vida%20Pablo%20Vasquez%20Garcia.pdf) 
+- 👨🏻‍💻 This is my [CV](https://www.linkedin.com/in/pablo-vasquez-garcía-full-stack-developer-a879a123a/) 
 - 🌱 I’m currently learning I am currently learning about web design 
 - 👯 I’m looking to collaborate as  Full Stack Developer, Front End or Back End
 - 💬 Ask me about  || HTML || CSS || JavaScript || NodeJs || Express || React | Redux || PostgreSQL || Sequelize || SQL || Git 
