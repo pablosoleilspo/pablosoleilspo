@@ -21,12 +21,18 @@
 
 ### 🌻About Me :
 
-- 👨🏻‍💻 This is my [CV](https://www.linkedin.com/in/pablo-vasquez-garcía-full-stack-developer-a879a123a/) 
 - 🌱 I’m currently learning I am currently learning about web design 
 - 👯 I’m looking to collaborate as  Full Stack Developer, Front End or Back End
 - 💬 Ask me about  || HTML || CSS || JavaScript || NodeJs || Express || React | Redux || PostgreSQL || Sequelize || SQL || Git 
 - 📫 How to reach me: **pablosoleilspo@gmail.com**
 <!-- - 🌐 Website: ... -->
 ---
+
+<div align="left">
+<h3>🧰 Languages and Tools:</h3>
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40" />&nbsp;
+</div>
+</div>
 
 
