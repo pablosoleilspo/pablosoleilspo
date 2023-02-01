@@ -1,9 +1,25 @@
-### Hi there 👋
 
-<!--
-**pablosoleilspo/pablosoleilspo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200" />
+    <h1 align="center">Hi 👋🏻, I'm pablo</h1>
+    <h3 align="center">A passionate web full-stack web developer with more than 4 years in the programming world. Proactive, enthusiastic and eager to keep learning, easy to adapt and ability to work in a team, under high pressure conditions. With experience in customer service and great sense of responsibility as well as high service vocation.</h3>
+</div>
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+<a href="https://www.linkedin.com/in/pablo-vasquez-garc%C3%ADa-full-stack-developer-a879a123a" target="_blank">
+<img src="https://www.icesi.edu.co/marketingzone/wp-content/uploads/2020/09/linkedin-logo.jpg" width="100" height="50" alt="Linkedin Badge"/>
+</a>
+    
+ <a href="https://www.instagram.com/pablosoleilspo/" target="_blank">
+<img src="https://seguidoresdeinstagram.com/wp-content/uploads/2018/08/Instagram-Banner-Logo-de-Instagram-vector-logo-instagram-sin-fondo-1000x480.gif" width="100" padding="20" height="50" alt="Instagram Badge"/>
+</a>
+
+</div>
+
+
+---
+
+### 🌻About Me :
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+---
