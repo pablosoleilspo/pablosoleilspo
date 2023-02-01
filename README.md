@@ -47,7 +47,7 @@
 
 ### 📊 My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pablosoleilspo)](https://git.io/streak-stats)
 
 ![Pablosoleilspo](https://github-readme-stats.vercel.app/api?username=pablosoleilspo&show_icons=true&theme=radical)
 
