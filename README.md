@@ -6,7 +6,7 @@
 </div>
 
 <div id="badges" align="center">
-<a href="https://www.linkedin.com/in/pablo-vasquez-garc%C3%ADa-full-stack-developer-a879a123a" target="_blank">
+<a href="https://www.linkedin.com/in/pablo-v-g" target="_blank">
 <img src="https://www.icesi.edu.co/marketingzone/wp-content/uploads/2020/09/linkedin-logo.jpg" width="100" height="50" alt="Linkedin Badge"/>
 </a>
     
