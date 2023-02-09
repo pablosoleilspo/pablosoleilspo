@@ -10,13 +10,15 @@
 <img src="https://www.icesi.edu.co/marketingzone/wp-content/uploads/2020/09/linkedin-logo.jpg" width="100" height="50" alt="Linkedin Badge"/>
 </a>
     
- <a href="https://www.instagram.com/pablosoleilspo/" target="_blank">
-<img src="https://cdn.pixabay.com/photo/2016/09/17/07/03/instagram-1675670_960_720.png" width="100" padding="20" height="50" alt="Instagram Badge"/>
-</a>
-    
- <a href="https://portafolio-pablo-vasquez.netlify.app" target="_blank">
+<a href="https://portafolio-pablo-vasquez.netlify.app" target="_blank">
 <img src="https://cdn.pixabay.com/photo/2016/01/29/21/35/suitcase-1168730_960_720.png" width="100" padding="20" height="50" alt="portafolio"/>
 </a>
+
+    
+ <a href="https://www.instagram.com/pablosoleilspo/" target="_blank">
+<img src="https://cdn.pixabay.com/photo/2016/12/04/18/58/instagram-1882330_960_720.png" width="100" padding="20" height="50" alt="Instagram Badge"/>
+</a>
+    
 
 </div>
 
