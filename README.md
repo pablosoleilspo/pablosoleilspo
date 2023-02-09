@@ -11,7 +11,7 @@
 </a>
     
  <a href="https://www.instagram.com/pablosoleilspo/" target="_blank">
-<img src="https://cdn.pixabay.com/photo/2017/06/23/02/32/instagram-2433265_1280.png" width="100" padding="20" height="50" alt="Instagram Badge"/>
+<img src="https://cdn.pixabay.com/photo/2016/08/15/01/29/instagram-1594387_1280.png" width="100" padding="20" height="50" alt="Instagram Badge"/>
 </a>
     
  <a href="https://portafolio-pablo-vasquez.netlify.app" target="_blank">
