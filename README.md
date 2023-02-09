@@ -11,7 +11,7 @@
 </a>
     
  <a href="https://www.instagram.com/pablosoleilspo/" target="_blank">
-<img src="https://seguidoresdeinstagram.com/wp-content/uploads/2018/08/Instagram-Banner-Logo-de-Instagram-vector-logo-instagram-sin-fondo-1000x480.gif" width="100" padding="20" height="50" alt="Instagram Badge"/>
+<img src="https://www.icesi.edu.co/marketingzone/wp-content/uploads/2020/09/linkedin-logo.jpg" width="100" padding="20" height="50" alt="Instagram Badge"/>
 </a>
 
 </div>
